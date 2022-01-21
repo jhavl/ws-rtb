@@ -1,2 +1,2 @@
 # ws-rtb
-Robotics Toolbox Session - IEEE RAS Winter School Reproducible Research Performance Evalusation and Benchmarking in Robotics
+Robotics Toolbox Session - IEEE RAS Winter School Reproducible Research Performance Evaluation and Benchmarking in Robotics
