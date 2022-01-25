@@ -40,8 +40,23 @@ We provide Jupyter notebooks that you can run with zero-install on your computer
 
 ### Local install
 
+Install conda following instructions here https://docs.conda.io/en/latest/miniconda.html
+
 ```
-pip install...
+// Make a new conda env
+conda create -n 'ws-rtb' python=3.9
+
+// Activate the new conda env
+conda activate ws-rtb
+
+// Install the toolbox and deps
+conda install -c conda-forge roboticstoolbox-python==0.11.0
+
+// Install jupyter notebook 
+conda install -c conda-forge notebook
+
+// Clone this repo to operate locally
+git clone https://github.com/jhavl/ws-rtb.git
 ```
 
 ### Using CoLab
