@@ -40,6 +40,8 @@ We provide Jupyter notebooks that you can run with zero-install on your computer
 
 ### Local install
 
+This is the recommended way to experience this workshop. With the local install, you will be able to experience the Swift Simulator and related excercises.
+
 Install conda following instructions here https://docs.conda.io/en/latest/miniconda.html
 
 ```
@@ -60,3 +62,5 @@ git clone https://github.com/jhavl/ws-rtb.git
 ```
 
 ### Using CoLab
+
+Colab provides an install free way of participating in the workshop, although not all excercises will be compatible.
