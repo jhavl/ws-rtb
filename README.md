@@ -18,11 +18,10 @@
 This session will give you an introduction to some Python toolboxes that make it easy to model and simulate quite complex robotic and robotic vision systems.
 We will cover the following topics:
 
-* transforms, quaternions and all that stuff (Peter)
-* modeling mobile robots (Peter)
-* modeling robot manipulator arms (Jesse)
-* Swift - a fast browser-based simulator (Jesse)
-* modeling cameras (Peter)
+* transforms, quaternions and all that stuff (Peter), 8 mins
+* robot manipulator arms; cameras (Peter), 8 mins
+* cameras (Peter), 4 mins
+* Swift - a fast browser-based simulator (Jesse), 20 mins
 
 A [paper at the most recent ICRA](https://ieeexplore.ieee.org/document/9561366) gives a gentle introduction to the Toolboxes and our design philosophy.
 
@@ -34,15 +33,34 @@ We provide Jupyter notebooks that you can run with zero-install on your computer
 
 * `icra2021.ipynb`  this takes you through core features of spatial mathematics and arm robots
 * `mobile.ipynb` this takes you through some of the capabilities of the mobile robot component of the Robotics Toolbox
-* swift??
+* Swift??
 * `visualservo.ipynb` is an example of image-based visual servoing of a manipulator arm.  It is for you to complete, but we have sketched out some of the solution.
 
 ## How to get started with the code
 
 ### Local install
 
+This is the recommended way to experience this workshop. With the local install, you will be able to experience the Swift Simulator and related excercises.
+
+Install conda following instructions here https://docs.conda.io/en/latest/miniconda.html
+
 ```
-pip install...
+// Make a new conda env
+conda create -n 'ws-rtb' python=3.9
+
+// Activate the new conda env
+conda activate ws-rtb
+
+// Install the toolbox and deps
+conda install -c conda-forge roboticstoolbox-python==0.11.0
+
+// Install jupyter notebook 
+conda install -c conda-forge notebook
+
+// Clone this repo to operate locally
+git clone https://github.com/jhavl/ws-rtb.git
 ```
 
 ### Using CoLab
+
+Colab provides an install free way of participating in the workshop, although not all excercises will be compatible.
