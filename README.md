@@ -52,6 +52,7 @@ conda activate ws-rtb
 
 // Install the toolbox and deps
 conda install -c conda-forge roboticstoolbox-python==0.11.0
+conda install -c conda-forge swift-sim==0.10.0
 
 // Install jupyter notebook 
 conda install -c conda-forge notebook
