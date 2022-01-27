@@ -76,4 +76,4 @@ Colab provides an install free way of participating in the workshop, although no
 Go to [CoLab](https://colab.research.google.com/github/jhavl/ws-rtb) and choose the notebook you want to run.  The two that work (mostly) with CoLab are
 
 * `icra2021.ipynb`  this takes you through core features of spatial mathematics and arm robots
-* `visualservo.ipynb`
+* `visualservo.ipynb` a classic image-based visual servo system (IBVS) implemented with the Toolboxes, and an assignment for students
