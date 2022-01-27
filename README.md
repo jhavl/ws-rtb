@@ -32,7 +32,7 @@ PDF slides available here...
 We provide Jupyter notebooks that you can run with zero-install on your computer (apart from the Swift simulator which can't work with CoLab).  These reinforce the material covered in the lecture.
 
 * `icra2021.ipynb`  this takes you through core features of spatial mathematics and arm robots
-* Swift??
+* `swift.ipynb` this takes you through core features of the Swift simulator and arm-based robotics
 * `visualservo.ipynb` is an example of image-based visual servoing of a manipulator arm.  It is for you to complete, but we have sketched out some of the solution.
 
 ## How to get started with the code
@@ -59,6 +59,12 @@ conda install -c conda-forge notebook
 
 // Clone this repo to operate locally
 git clone https://github.com/jhavl/ws-rtb.git
+
+// Change into the directory
+cd ws-rtb
+
+// Open Jupyter in the current directory
+jupyter-notebook
 ```
 
 ### Using CoLab
