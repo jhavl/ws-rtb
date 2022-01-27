@@ -13,7 +13,7 @@
 
 ## Program
 
-### Lecture
+### Lecture (10am CET on 27 January 2022)
 
 This session will give you an introduction to some Python toolboxes that make it easy to model and simulate quite complex robotic and robotic vision systems.
 We will cover the following topics:
@@ -27,7 +27,7 @@ A [paper at the most recent ICRA](https://ieeexplore.ieee.org/document/9561366) 
 
 PDF slides available here...
 
-### Hands-on workshop
+### Hands-on workshop (11am CET on 27 January 2022)
 
 We provide Jupyter notebooks that you can run with zero-install on your computer (apart from the Swift simulator which can't work with CoLab).  These reinforce the material covered in the lecture.
 
