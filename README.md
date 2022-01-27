@@ -32,7 +32,6 @@ PDF slides available here...
 We provide Jupyter notebooks that you can run with zero-install on your computer (apart from the Swift simulator which can't work with CoLab).  These reinforce the material covered in the lecture.
 
 * `icra2021.ipynb`  this takes you through core features of spatial mathematics and arm robots
-* `mobile.ipynb` this takes you through some of the capabilities of the mobile robot component of the Robotics Toolbox
 * Swift??
 * `visualservo.ipynb` is an example of image-based visual servoing of a manipulator arm.  It is for you to complete, but we have sketched out some of the solution.
 
@@ -64,3 +63,8 @@ git clone https://github.com/jhavl/ws-rtb.git
 ### Using CoLab
 
 Colab provides an install free way of participating in the workshop, although not all excercises will be compatible.
+
+Go to [CoLab](https://colab.research.google.com/github/jhavl/ws-rtb) and choose the notebook you want to run.  The two that work (mostly) with CoLab are
+
+* `icra2021.ipynb`  this takes you through core features of spatial mathematics and arm robots
+* `visualservo.ipynb`
