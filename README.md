@@ -25,7 +25,9 @@ We will cover the following topics:
 
 A [paper at the most recent ICRA](https://ieeexplore.ieee.org/document/9561366) gives a gentle introduction to the Toolboxes and our design philosophy.
 
-PDF slides available here...
+PDF slides available here:
+
+* [Peter's slides (PDF)](https://www.dropbox.com/s/5sjiqfudjxpdpk2/winter%20school%202022.pdf?dl=0)
 
 ### Hands-on workshop (11am CET on 27 January 2022)
 
