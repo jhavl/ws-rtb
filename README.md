@@ -72,7 +72,7 @@ jupyter-notebook
 ```
 // pip install alternative
 pip install roboticstoolbox-python==0.11.0
-pip install swift==0.10.0
+pip install swift-sim==0.10.0
 pip install sympy
 pip install notebook
 ```
