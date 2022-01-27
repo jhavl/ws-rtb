@@ -69,6 +69,18 @@ cd ws-rtb
 jupyter-notebook
 ```
 
+```
+// pip install alternative
+pip install roboticstoolbox-python==0.11.0
+pip install swift==0.10.0
+pip install sympy
+```
+
+
+
+
+
+
 ### Using CoLab
 
 Colab provides an install free way of participating in the workshop, although not all excercises will be compatible.
