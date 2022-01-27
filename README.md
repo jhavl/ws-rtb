@@ -1,4 +1,4 @@
-# Robotics & Vision Toolboxes for Python
+ # Robotics & Vision Toolboxes for Python
 
 [IEEE RAS School Reproducible Research Performance Evaluation and Benchmarking in Robotics](http://www.reproducibleroboticsresearch.rocks)
 
@@ -74,11 +74,8 @@ jupyter-notebook
 pip install roboticstoolbox-python==0.11.0
 pip install swift==0.10.0
 pip install sympy
+pip install notebook
 ```
-
-
-
-
 
 
 ### Using CoLab
